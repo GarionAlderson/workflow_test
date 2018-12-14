@@ -8,12 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "?.git"
+    "url": "https://github.com/GarionAlderson/workflow_test.git"
   },
   "author": "Garry Gooch",
   "license": "ISC",
   "devDependencies": {
     "gulp": "^4.0.0",
+    "gulp-coffee": "^3.0.3",
     "gulp-util": "^3.0.8"
   }
 }
